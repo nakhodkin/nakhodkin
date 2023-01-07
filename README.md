@@ -7,7 +7,15 @@
 
 --->
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="nakhodkin" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ua.linkedin.com/in/nakhodkin?trk=profile-badge">Artem Nakhodkin</a></div>
+<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40"> </h2>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nakhodkin&theme=dark" alt="pemtajo" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nakhodkin&show_icons=true&locale=en&layout=compact&theme=dark" alt="pemtajo" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nakhodkin&show_icons=true&locale=en&theme=dark" alt="pemtajo" /></p>
+
+<!-- -->
 
 <a href="https://stackoverflow.com/users/6306714/nakhodkin"><img src="https://stackoverflow.com/users/flair/6306714.png" width="208" height="58" alt="profile for nakhodkin at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for nakhodkin at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
