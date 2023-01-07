@@ -9,11 +9,7 @@
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40"> </h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nakhodkin&theme=dark" alt="pemtajo" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nakhodkin&show_icons=true&locale=en&layout=compact&theme=dark" alt="pemtajo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nakhodkin&show_icons=true&locale=en&theme=dark" alt="pemtajo" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nakhodkin&show_icons=true&locale=en&layout=compact" alt="pemtajo" /></p>
 
 <!-- -->
 
@@ -24,5 +20,6 @@ nakhodkin/nakhodkin is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+<br />
 
 [![@nakhodkin's Holopin board](https://holopin.me/nakhodkin)](https://holopin.io/@nakhodkin)
